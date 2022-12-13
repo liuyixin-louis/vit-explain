@@ -1,3 +1,10 @@
+# Our project
+- [ ] pretrained disfussion model of each data set
+- [ ] desing of model architecture and dataset
+- [ ] presentation format
+- [ ] design of noise size searching range
+
+
 # Explainability for Vision Transformers (in PyTorch)
 
 This repository implements methods for explainability in Vision Transformers.
